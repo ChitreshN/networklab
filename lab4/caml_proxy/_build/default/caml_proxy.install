@@ -1,0 +1,8 @@
+lib: [
+  "_build/install/default/lib/caml_proxy/META"
+  "_build/install/default/lib/caml_proxy/dune-package"
+  "_build/install/default/lib/caml_proxy/opam"
+]
+bin: [
+  "_build/install/default/bin/caml_proxy"
+]

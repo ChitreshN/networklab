@@ -1,0 +1,4 @@
+(lang dune 3.13)
+(name caml_proxy)
+(sections (lib .) (bin ../../bin))
+(files (lib (META dune-package opam)) (bin (caml_proxy)))

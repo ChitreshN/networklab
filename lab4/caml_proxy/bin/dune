@@ -1,0 +1,4 @@
+(executable
+ (public_name caml_proxy)
+ (name main)
+ (libraries caml_proxy unix lwt lwt.unix))
